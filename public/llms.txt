@@ -1,0 +1,55 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+חפש בין אלפי בתים למכירה, קבל הערכת שווי מדויקת לנכס שלך והשווה מחירים בזמן אמת. מערכת חיפוש חכמה שתמצא לך את הבית המושלם היום!
+
+### נכס
+https://example.com/property/sample
+צפה בפרטים המלאים של הנכס: תמונות באיכות גבוהה, מחיר מעודכן, הערכת שווי מקצועית ומידע על השכונה. קבע ביקור או שלח פנייה ישירות לבעלים.
+
+### צור קשר
+https://example.com/contact
+יש לך שאלות על מכירת או קניית בית? הצוות המקצועי שלנו כאן לעזור! קבל ייעוץ חינם, הערכת שווי מדויקת ותשובות לכל השאלות שלך תוך 24 שעות.
+
+### Products
+https://example.com/products
+המוצרים שלנו - Home sale
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Home sale
+
+### Category
+https://example.com/category/:slug
+מוצרים - Home sale
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
